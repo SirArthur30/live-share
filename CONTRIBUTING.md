@@ -40,11 +40,11 @@ Visual Studio has a built in feedback mechanism via the "Report a Problem..." to
 
 Logs will be automatically attached.
 
-![Image of Report a Problem...](docs/media/vs-feedback.png) 
+![Image of Report a Problem...](docs/media/vs-feedback.png)
 
 > **Tip:** You may be able to save yourself some time by simply up-voting an existing problem report.  You may search for existing issue in the Visual Studio Feedback tool but be aware your problem may be related to multiple clients and therefore is logged in the GitHub [issue repository](https://github.com/Microsoft/live-share/issues).
 
-Note that after your problem report is filed, it may be converted to a [GitHub issue](https://github.com/Microsoft/live-share/issues) for future tracking if it applies multiple clients or turns out to be a feature request. In this event, a link to the corresponding GitHub issue number will be referenced in comments on your raised problem report. 
+Note that after your problem report is filed, it may be converted to a [GitHub issue](https://github.com/Microsoft/live-share/issues) for future tracking if it applies multiple clients or turns out to be a feature request. In this event, a link to the corresponding GitHub issue number will be referenced in comments on your raised problem report.
 
 Check out the tips in "[Writing Good Problem Reports and Feature Requests](#tip-writing-good-problem-reports-and-feature-requests)" for additional suggestions.
 
@@ -97,11 +97,11 @@ First, try to file a single issue per problem or feature request.
 * Do not enumerate multiple bugs or feature requests in the same issue.
 * Do not add your issue as a comment to an existing issue unless it's for the identical input. Many issues look similar, but have different causes.
 
-The more information you can provide, the more likely someone will be successful reproducing the issue and finding a fix. 
+The more information you can provide, the more likely someone will be successful reproducing the issue and finding a fix.
 
-* Reproducible steps (1... 2... 3...) and what you expected versus what you actually saw. 
+* Reproducible steps (1... 2... 3...) and what you expected versus what you actually saw.
 * Images, animations, or a link to a video.
-* A code snippet that demonstrates the issue or a link to a code repository we can easily pull down onto our machine to recreate the issue. 
+* A code snippet that demonstrates the issue or a link to a code repository we can easily pull down onto our machine to recreate the issue.
 
 Don't feel bad if we can't reproduce the issue and ask for more information!
 
